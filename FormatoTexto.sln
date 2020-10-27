@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatoTexto", "FormatoTexto\FormatoTexto.csproj", "{EC524DDF-6BFE-43D2-B5BE-1C34C2371A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC524DDF-6BFE-43D2-B5BE-1C34C2371A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC524DDF-6BFE-43D2-B5BE-1C34C2371A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC524DDF-6BFE-43D2-B5BE-1C34C2371A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC524DDF-6BFE-43D2-B5BE-1C34C2371A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {671A6E79-157A-4DC7-8AC2-D165EBC30B5F}
+	EndGlobalSection
+EndGlobal
